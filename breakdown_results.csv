@@ -1,0 +1,7 @@
+slice,n,RAG EM,RAG F1,NoRAG EM,NoRAG F1
+Answerable,23,0.43478260869565216,0.5753623188405798,0.0,0.0
+Unanswerable,7,0.0,0.0,0.0,0.0
+Short (<= 10 words),20,0.35,0.4783333333333334,0.0,0.0
+Long (> 10 words),10,0.3,0.36666666666666664,0.0,0.0
+Answerable & retrieval success (top-1),21,0.47619047619047616,0.6301587301587303,0.0,0.0
+Answerable & retrieval failure (top-1),2,0.0,0.0,0.0,0.0
