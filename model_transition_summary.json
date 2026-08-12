@@ -1,0 +1,13 @@
+{
+  "examples": 120,
+  "prediction_text_changed": 56,
+  "exact_match_improved": 15,
+  "exact_match_harmed": 6,
+  "token_f1_improved": 18,
+  "token_f1_harmed": 8,
+  "new_abstentions": 9,
+  "lost_abstentions": 0,
+  "unanswerable_exact_match_improved": 9,
+  "answerable_exact_match_improved": 6,
+  "answerable_exact_match_harmed": 6
+}

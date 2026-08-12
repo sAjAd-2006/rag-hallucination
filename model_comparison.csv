@@ -1,0 +1,4 @@
+model,exact_match_percent,token_f1_percent,answerable_exact_match_percent,answerable_token_f1_percent,unanswerable_abstention_accuracy_percent,overall_abstention_rate_percent,retrieval_hit_at_1_percent,retrieval_hit_at_3_percent
+google/flan-t5-small,43.33,50.66,63.75,74.74,2.5,1.67,88.75,98.75
+google/flan-t5-base,50.83,59.09,63.75,76.13,25.0,9.17,88.75,98.75
+base_minus_small_percentage_points,7.5,8.43,0.0,1.39,22.5,7.5,0.0,0.0
