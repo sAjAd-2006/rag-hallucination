@@ -1,0 +1,5 @@
+# Ignore zip archives
+*.zip
+
+# Ignore report_sources folder
+/report_sources/
