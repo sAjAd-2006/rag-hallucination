@@ -18,8 +18,6 @@ Retrieval-Augmented Generation and the Study of Hallucination
 10. `T05_Bonus_Outputs.zip`
 11. `T05_Presentation.pptx`
 
-The `report_sources/` folder contains the standalone HTML/CSS source for both PDF reports. The delivered PDFs are rendered directly from those HTML pages. Both reports use the supplied dark-navy, blue/green, card-and-table visual system, and the presentation is fully English.
-
 ## Main verified results
 
 - 120 evaluation questions: 80 answerable and 40 unanswerable.
